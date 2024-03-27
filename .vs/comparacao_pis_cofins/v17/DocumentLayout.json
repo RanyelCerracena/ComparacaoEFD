@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ti03\\source\\repos\\comparacao_pis_cofins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94580128-1890-4C69-97BE-73133E4624EB}|comparacao_pis_cofins\\comparacao_pis_cofins.csproj|c:\\users\\ti03\\source\\repos\\comparacao_pis_cofins\\comparacao_pis_cofins\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94580128-1890-4C69-97BE-73133E4624EB}|comparacao_pis_cofins\\comparacao_pis_cofins.csproj|solutionrelative:comparacao_pis_cofins\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94580128-1890-4C69-97BE-73133E4624EB}|comparacao_pis_cofins\\comparacao_pis_cofins.csproj|c:\\users\\ti03\\source\\repos\\comparacao_pis_cofins\\comparacao_pis_cofins\\comparacao_pis_cofins.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{94580128-1890-4C69-97BE-73133E4624EB}|comparacao_pis_cofins\\comparacao_pis_cofins.csproj|solutionrelative:comparacao_pis_cofins\\comparacao_pis_cofins.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94580128-1890-4C69-97BE-73133E4624EB}|comparacao_pis_cofins\\comparacao_pis_cofins.csproj|c:\\users\\ti03\\source\\repos\\comparacao_pis_cofins\\comparacao_pis_cofins\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94580128-1890-4C69-97BE-73133E4624EB}|comparacao_pis_cofins\\comparacao_pis_cofins.csproj|solutionrelative:comparacao_pis_cofins\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "comparacao_pis_cofins",
+              "DocumentMoniker": "C:\\Users\\Ti03\\source\\repos\\comparacao_pis_cofins\\comparacao_pis_cofins\\comparacao_pis_cofins.csproj",
+              "RelativeDocumentMoniker": "comparacao_pis_cofins\\comparacao_pis_cofins.csproj",
+              "ToolTip": "C:\\Users\\Ti03\\source\\repos\\comparacao_pis_cofins\\comparacao_pis_cofins\\comparacao_pis_cofins.csproj",
+              "RelativeToolTip": "comparacao_pis_cofins\\comparacao_pis_cofins.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T18:12:40.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Ti03\\source\\repos\\comparacao_pis_cofins\\comparacao_pis_cofins\\Form1.cs",
+              "RelativeDocumentMoniker": "comparacao_pis_cofins\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ti03\\source\\repos\\comparacao_pis_cofins\\comparacao_pis_cofins\\Form1.cs [Projeto]",
+              "RelativeToolTip": "comparacao_pis_cofins\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:47:56.318Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ti03\\source\\repos\\comparacao_pis_cofins\\comparacao_pis_cofins\\Form1.cs",
+              "RelativeDocumentMoniker": "comparacao_pis_cofins\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ti03\\source\\repos\\comparacao_pis_cofins\\comparacao_pis_cofins\\Form1.cs",
+              "RelativeToolTip": "comparacao_pis_cofins\\Form1.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAIwF4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:01:38.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
