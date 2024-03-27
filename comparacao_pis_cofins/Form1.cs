@@ -93,7 +93,7 @@ namespace comparacao_pis_cofins
                     worksheet.Column(7).Width = 19;
                     worksheet.Range(1, 3, 1, 7).Style.Alignment.Horizontal = XLAlignmentHorizontalValues.Center;
                     worksheet.Cell(1, 1).Style.Alignment.Horizontal = XLAlignmentHorizontalValues.Center;
-
+                    // teste
 
                     int linha = 2;
                     foreach (var comparacao in dicionario[periodo]) {

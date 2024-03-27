@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("comparacao_pis_cofins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf5628baa9d6c4d8da837f4c5b535af7335bb07")]
 [assembly: System.Reflection.AssemblyProductAttribute("comparacao_pis_cofins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("comparacao_pis_cofins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
